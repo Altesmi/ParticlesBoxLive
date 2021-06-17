@@ -15,7 +15,7 @@ class Simulation:
     """
 
     def __init__(self, numParticles: int, radii: np.ndarray):
-        """Initializes simulation
+        """ Initializes simulation
 
         Args:
             numParticles (int): number of particles to be created
